@@ -1,4 +1,3 @@
-# test-my-project-01
-# test-my-project-01
-# test-my-project-01
-# test-my-project-01
+นางสาวนิรดา ภูมิสถิตย์
+เลขที่2 ห้อง3
+สาขาวิชา เทคโนโลยีสารสนเทศ
